@@ -1,0 +1,24 @@
+{
+  "name": "weavr-monorepo",
+  "version": "1.0.0",
+  "description": "Weavr monorepo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abstrucked/weavr-monorepo.git"
+  },
+  "keywords": [
+    "weavr",
+    "vue",
+    "ethersjs"
+  ],
+  "author": "abstrucked",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abstrucked/weavr-monorepo/issues"
+  },
+  "homepage": "https://github.com/Abstrucked/weavr-monorepo#readme"
+}
